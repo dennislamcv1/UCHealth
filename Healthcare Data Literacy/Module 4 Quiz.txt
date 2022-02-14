@@ -1,0 +1,71 @@
+1. Which statement offers the best definition of data integration?
+
+Data integration involves
+technical and business processes to combine data from disparate sources to
+create meaningful information.
+
+2. How are the terms entity resolution and record linkage related?
+
+Entity resolution is about ontologies and categories, and record linkage
+involves actual data.
+
+3. Why are data dictionaries and other forms of meta-data helpful?
+
+Like language, the meaning of
+data is often not immediately meaningful – it helps to know the history of data
+and how the origins or emergence of data make allows us to understand something
+about the world.
+
+4. What is a good example of why data needs to
+be “mapped”?
+
+Data needs to be moved from one
+database to a related but different database. 
+Before it can be moved from the source to the target database, mapping
+must be performed to standardize the data.
+
+5. In the context of the ABA example given in
+the Data Harminization lesson, what is a good description of how to document workflows?  
+
+There are many methods and tools to document clinical
+workflows and other processes important to data – the important part is that it
+is actually done.
+
+6. Select all the important sources of information
+about the history or origins of data listed. (Select all that apply).
+
+“Data about the data”
+Metadata
+Data Dictionaries 
+
+7. Identify common issues that lead to data
+conflicts.
+
+Communication, schema, data
+value differences, semantic conflicts 
+
+
+8. Why are attributes important for
+entity resolution?  
+
+Attributes are often the things
+that identify real-world objects and help discriminate between related for
+different entities. 
+
+9. What statement best summarizes the topic of data
+fragmentation and harmonization within healthcare?
+
+Healthcare data are disparate
+and fragmented; harmonization is a labor-intensive task of standardizing and
+centralizing data.
+
+10. Which is a good example about how data
+meaning can become ambiguous due to the ambiguous nature of how it was
+collected?
+
+Location of injury – is this the geographic location of the injury, or
+the location on the body where the injury occurred?
+
+
+
+
